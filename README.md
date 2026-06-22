@@ -108,6 +108,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [Logfile Analysis for SEO](https://www.suganthan.com/blog/logfile-analysis-seo/)
 > This article detail explains how to analyse website access logs to identify problems in SEO. Google Analytics can help us understand user access, and system logs can help us better understand crawler requests, website techical SEO issues such as 301 redirects and so on.
 
+[Free Backlinks from GitHub: How a Non-Programmer Used AI to Build a Backlink Strategy](https://ordinarymantrying.com/ai-taught-me-github-backlinks/)
+> "A practical case study on using GitHub repositories and GitHub Pages to earn free, high-authority backlinks with zero budget — step by step with AI guidance."
+
 ### Google Ads
 
 [Google Ads Benchmarks for YOUR Industry](https://www.wordstream.com/blog/ws/2016/02/29/google-adwords-industry-benchmarks)
@@ -211,6 +214,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 
 [SEO前线](http://seoqx.com/)(Chinese Blog)
 > Author: noname. He main research Baidu SEO.
+
+[Ordinary Man Trying](https://ordinarymantrying.com/)
+> An English blog by an ordinary Chinese person documenting AI experiments, value investing, and web monetization from scratch.
 
 [Other](https://ahrefs.com/blog/seo-blogs/)
 > Collected by ahrefs.
